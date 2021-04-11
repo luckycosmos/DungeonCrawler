@@ -1,3 +1,5 @@
+package org.majluck.dungeoncrawler;
+
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class DungeonCrawler extends JavaPlugin {
