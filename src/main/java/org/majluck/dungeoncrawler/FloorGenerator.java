@@ -1,3 +1,5 @@
+package org.majluck.dungeoncrawler;
+
 import java.util.Random;
 
 public class FloorGenerator {

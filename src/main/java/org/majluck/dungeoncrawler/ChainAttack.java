@@ -1,3 +1,5 @@
+package org.majluck.dungeoncrawler;
+
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.EntityType;

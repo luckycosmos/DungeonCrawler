@@ -1,3 +1,5 @@
+package org.majluck.dungeoncrawler;
+
 import lombok.Getter;
 import org.bukkit.plugin.java.JavaPlugin;
 
