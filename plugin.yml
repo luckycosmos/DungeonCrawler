@@ -1,5 +1,5 @@
 name: org.majluck.dungeoncrawler.DungeonCrawler
 description: Delve into the dungeon!
 version: ${project.version}
-main: org.majluck.dungeoncrawler.org.majluck.dungeoncrawler.DungeonCrawler
+main: org.majluck.dungeoncrawler.DungeonCrawler
 api-version: 1.16
