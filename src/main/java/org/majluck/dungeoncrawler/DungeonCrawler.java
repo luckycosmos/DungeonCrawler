@@ -11,8 +11,6 @@ public class DungeonCrawler extends JavaPlugin {
     @Override
     public void onEnable() {
         //Todo
-        ChainAttack attack = new ChainAttack();
-        attack.register();
     }
 
     @Override

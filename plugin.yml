@@ -1,4 +1,4 @@
-name: org.majluck.dungeoncrawler.DungeonCrawler
+name: DungeonCrawler
 description: Delve into the dungeon!
 version: ${project.version}
 main: org.majluck.dungeoncrawler.DungeonCrawler
